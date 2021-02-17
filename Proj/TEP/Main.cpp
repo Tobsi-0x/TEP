@@ -11,3 +11,15 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
+
+/* ==========DEV LOG==========
+
+dev_001:
+
+ - added & linked dependencies.
+ - a
+ - a
+
+
+
+*/
